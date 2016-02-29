@@ -1,0 +1,28 @@
+﻿Build started 2/29/2016 9:27:07 PM.
+     1>Project "E:\C_Projects\ConsoleJack\JackDeBlack\JackDeBlack.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\PROGRAMS\Visual Studio 2013 (Community Edition)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CardClass.cpp DeckClass.cpp GameClass.cpp GenericPlayerClass.cpp HandClass.cpp HouseClass.cpp Jack.cpp PlayerClass.cpp
+         PlayerClass.cpp
+         Jack.cpp
+         HouseClass.cpp
+         HandClass.cpp
+         GenericPlayerClass.cpp
+         GameClass.cpp
+         DeckClass.cpp
+         CardClass.cpp
+         Generating Code...
+       Link:
+         E:\PROGRAMS\Visual Studio 2013 (Community Edition)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C_Projects\ConsoleJack\Debug\JackDeBlack.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C_Projects\ConsoleJack\Debug\JackDeBlack.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C_Projects\ConsoleJack\Debug\JackDeBlack.lib" /MACHINE:X86 Debug\CardClass.obj
+         Debug\DeckClass.obj
+         Debug\GameClass.obj
+         Debug\GenericPlayerClass.obj
+         Debug\HandClass.obj
+         Debug\HouseClass.obj
+         Debug\Jack.obj
+         Debug\PlayerClass.obj
+         JackDeBlack.vcxproj -> E:\C_Projects\ConsoleJack\Debug\JackDeBlack.exe
+     1>Done Building Project "E:\C_Projects\ConsoleJack\JackDeBlack\JackDeBlack.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.86
